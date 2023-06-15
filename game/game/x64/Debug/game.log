@@ -1,0 +1,9 @@
+﻿  game.c
+C:\code\game\game\game.c(81,11): warning C4013: “rand”未定义；假设外部返回 int
+C:\code\game\game\game.c(126,10): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  test.c
+C:\code\game\game\test.c(28,21): warning C4020: “panduan”: 实参太多
+C:\code\game\game\test.c(54,20): warning C4020: “panduan”: 实参太多
+C:\code\game\game\test.c(83,2): warning C4013: “srand”未定义；假设外部返回 int
+  正在生成代码...
+  game.vcxproj -> C:\code\game\x64\Debug\game.exe
