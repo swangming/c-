@@ -1,0 +1,4 @@
+﻿  源.c
+C:\code\Project30\Project30\源.c(10,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+C:\code\Project30\Project30\源.c(10,9): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+  Project30.vcxproj -> C:\code\Project30\x64\Debug\Project30.exe

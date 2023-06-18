@@ -1,0 +1,3 @@
+﻿  源.c
+C:\code\Project29\Project29\源.c(10,2): warning C4013: “system”未定义；假设外部返回 int
+  Project29.vcxproj -> C:\code\Project29\x64\Debug\Project29.exe
