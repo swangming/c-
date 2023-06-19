@@ -1,0 +1,3 @@
+﻿  源.c
+C:\code\Project33\Project33\源.c(18): warning C4715: “han”: 不是所有的控件路径都返回值
+  Project33.vcxproj -> C:\code\Project33\x64\Debug\Project33.exe
