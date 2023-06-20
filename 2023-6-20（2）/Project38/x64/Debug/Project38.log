@@ -1,0 +1,4 @@
+﻿  源.c
+C:\code\Project38\Project38\源.c(92,33): warning C4090: “函数”: 不同的“const”限定符
+C:\code\Project38\Project38\源.c(92,27): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+  Project38.vcxproj -> C:\code\Project38\x64\Debug\Project38.exe
