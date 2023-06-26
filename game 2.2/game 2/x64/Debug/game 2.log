@@ -1,0 +1,4 @@
+﻿  tesct.c
+C:\code\game 2\game 2\game.h(1,1): warning C4828: 文件包含在偏移 0x16e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\code\game 2\game 2\tesct.c(21,16): warning C4020: “daying”: 实参太多
+  game 2.vcxproj -> C:\code\game 2\x64\Debug\game 2.exe
